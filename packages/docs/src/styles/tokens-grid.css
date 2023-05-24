@@ -25,6 +25,6 @@
   border-bottom-right-radius: 8px;
 }
 
-.tokens-grid tbody tr:nth-child(even) td {
-  background: #444;
+.tokens-grid tbody tr:nth-child() td {
+  background: #383535;
 }
